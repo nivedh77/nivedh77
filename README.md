@@ -20,7 +20,7 @@
 
 - **Working on:** [CUSAT Accounts](https://github.com/nivedh77/CUSAT-ACCOUNTS)
 - **Currently learning:** JavaScript, React, and exploring backend development with Python
-- **Looking to collaborate on:** Hackathons with my teammate <a href="https://github.com/rashmikrishnap">Rashmi Krishna P</a>.
+- **Looking to collaborate on:** Hackathons with my teammates.
 - **Ask me about:** Frontend development
 - **Pronouns:** He / Him
 - **Fun fact:** I built a "useless" eyelash counter at a TinkerHub Useless Projects 3.0.
