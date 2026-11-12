@@ -10,6 +10,7 @@
   <a href="mailto:nivedhm2006@gmail.com"><img src="https://img.shields.io/badge/Email-nivedhm2006%40gmail.com-E23636?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin&logoColor=E23636" alt="LinkedIn" /></a>
   <a href="https://github.com/nivedh77"><img src="https://img.shields.io/badge/GitHub-nivedh77-E23636?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=nivedh77&color=E23636&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 </div>
