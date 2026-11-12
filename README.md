@@ -71,6 +71,12 @@ Project: CUSAT Accounts
 <br/>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nivedh77&theme=dark&background=0D1117&ring=E23636&fire=E23636&currStreakLabel=E23636&currStreakNum=E23636&sideNums=E6EDF3&sideLabels=E6EDF3&dates=8B949E&hide_border=true" width="97%" alt="GitHub Streak & Contributions" />
+</div>
+
+<br/>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nivedh77/nivedh77/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nivedh77/nivedh77/output/github-contribution-grid-snake.svg">
