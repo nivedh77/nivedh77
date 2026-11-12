@@ -3,7 +3,7 @@
 # Hey there, I'm Nivedh
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BTECH%20IT%20STUDENT-E23636?style=for-the-badge" alt="BTech IT Student" />
+  <img src="./assets/btech.svg" alt="BTECH IT STUDENT" height="26" />
 </p>
 
 <p align="center">
