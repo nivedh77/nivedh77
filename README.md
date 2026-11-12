@@ -12,6 +12,8 @@
 
 ---
 
+<img align="right" width="220" src="./assets/deadpool.jpg" alt="Deadpool at desk" />
+
 ### About Me
 
 - **Working on:** [CUSAT Accounts](https://github.com/nivedh77/CUSAT-ACCOUNTS)
@@ -20,6 +22,8 @@
 - **Ask me about:** Frontend development
 - **Pronouns:** He / Him
 - **Fun fact:** I built a "useless" eyelash counter at a TinkerHub Useless Projects 3.0.
+
+<br clear="right" />
 
 ---
 
