@@ -18,13 +18,12 @@
 
 ### About Me
 
-- **Working on:** CUSAT Accounts
+- **Working on:** [CUSAT Accounts](https://github.com/nivedh77/CUSAT-ACCOUNTS)
 - **Currently learning:** JavaScript, React, and exploring backend development with Python
-- **Looking to collaborate on:** Hackathons with my teammate
+- **Looking to collaborate on:** Hackathons with my teammate <a href="https://github.com/rahmikrishnap">Rashmi Krishna P</a>.
 - **Ask me about:** Frontend development
-- **How to reach me:** [Email](mailto:nivedhm2006@gmail.com) or [LinkedIn](https://linkedin.com)
 - **Pronouns:** He / Him
-- **Fun fact:** I built a "useless" eyelash counter at a TinkerHub Useless Projects hackathon.
+- **Fun fact:** I built a "useless" eyelash counter at a TinkerHub Useless Projects 3.0.
 
 ---
 
