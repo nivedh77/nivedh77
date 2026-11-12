@@ -7,10 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:nivedhm2006@gmail.com"><img src="https://img.shields.io/badge/Email-nivedhm2006%40gmail.com-E23636?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin&logoColor=E23636" alt="LinkedIn" /></a>
-  <a href="https://github.com/nivedh77"><img src="https://img.shields.io/badge/GitHub-nivedh77-E23636?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=nivedh77&color=E23636&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <a href="mailto:nivedhm2006@gmail.com"><b>Email</b></a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/"><b>LinkedIn</b></a> &nbsp;|&nbsp;
+  <a href="https://github.com/nivedh77"><b>GitHub</b></a>
 </p>
 
 </div>
@@ -35,29 +34,13 @@
 ### Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-E23636?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=E23636" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="38" height="38" />
 </p>
-
----
-
-### Interactive Console
-
-<details>
-<summary><b>Click to view current status</b></summary>
-
-```yaml
-Goal: Learning frontend development & React
-Focus: Building clean web projects
-Project: CUSAT Accounts
-```
-
-</details>
 
 ---
 
