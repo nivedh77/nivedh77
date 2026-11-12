@@ -2,10 +2,6 @@
 
 # Hey there, I'm Nivedh
 
-<a href="https://github.com/nivedh77">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E23636&center=true&vCenter=true&width=450&lines=Learning+Frontend+Development;Exploring+React+%26+JavaScript;Python+for+Backend" alt="Typing SVG" />
-</a>
-
 <p align="center">
   <a href="mailto:nivedhm2006@gmail.com"><img src="https://img.shields.io/badge/Email-nivedhm2006%40gmail.com-E23636?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin&logoColor=E23636" alt="LinkedIn" /></a>
