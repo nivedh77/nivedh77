@@ -3,7 +3,7 @@
 # Hey there, I'm Nivedh
 
 <p align="center">
-  <img src="./assets/btech.svg" alt="BTECH IT STUDENT" height="26" />
+  <img src="./assets/btech.svg" alt="B.TECH IT STUDENT" height="26" />
 </p>
 
 <p align="center">
